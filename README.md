@@ -24,5 +24,5 @@ using the GitHub REST API.
 ## 🌍 Live Demo
 (Will be added after deployment)
 
-## 📸 Preview
-![Preview](screenshot.png)
+## 📸 Check it Out!
+(https://hridayeshp.github.io/devhub/)
